@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malini.
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJs
 
 
